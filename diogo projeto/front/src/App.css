@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+body{
+  background-color: aliceblue;
+  margin: auto;
+}
+#topo{
+  width: auto;
+  background-color: DarkTurquoise;
+  height: 80px;
+  text-align: center;
+  padding-top: 40px;
+  font-family: 'Poppins';
+  font-size: 30px;
+  color: aliceblue;
+  border-bottom: 3px solid rgb(0, 160, 163);
+}
+
+.logo{
+  width: 40px;
+  height: 30px;
+}
+
+#rodape{
+  width: auto;
+  background-color: DarkTurquoise;
+  height: 70px;
+  text-align: center;
+  padding-top: 50px;
+  font-family: 'Poppins';
+  font-size: 20px;
+  color: aliceblue;
+  border-top: 3px solid rgb(0, 160, 163);
+}
+

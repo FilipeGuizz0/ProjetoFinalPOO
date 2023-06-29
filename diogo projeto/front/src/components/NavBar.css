@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+#NavBar {
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    padding-top: 10px;
+    display: inline-block;
+    text-align: center;
+}
+.NavBar1{  
+    background-color: DarkTurquoise;
+    border: 1px solid rgb(1, 181, 184);
+    color:aliceblue;
+    font-family: 'Poppins';
+    font-size: 20px;
+    height: 50px;
+    width: 100px;
+    border-radius: 7px;
+}
+.NavBar2{
+    background-color: DarkTurquoise;
+    border: 1px solid rgb(1, 181, 184);
+    color:aliceblue ;
+    font-family: 'Poppins';
+    font-size: 20px;
+    height: 50px;
+    width: 100px;
+    border-radius: 7px;
+}
+.div1{
+    width: 200px;
+    height: 100px;
+  
+    display: inline-block;
+}
+.div2
+{
+    width: 200px;
+    height: 100px;
+    
+    display: inline-block;
+}
+
+    
+    

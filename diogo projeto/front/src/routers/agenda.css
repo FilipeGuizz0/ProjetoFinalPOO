@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+#agendar{
+    width: auto;
+    height: 600px;
+    text-align: center;
+    font-family: 'Poppins';
+    color: rgb(74, 74, 74);
+}
+.input {
+    width: 300px;
+    height: 30px;
+    border-radius:  6px;
+    border: 1px solid #A9A9A9;
+    font-family: 'Poppins';
+    color: rgb(74, 74, 74);
+    background-color: rgb(239, 255, 255);
+}
+.select{
+    width: 305px;
+    height: 30px;
+    border-radius:  6px;
+    border: 1px solid #A9A9A9;
+    font-family: 'Poppins';
+    color: rgb(74, 74, 74);
+    background-color: rgb(239, 255, 255);
+}
+.date{
+    width: 305px;
+    height: 40px;
+    border-radius:  6px;
+    border: 1px solid #A9A9A9;
+    font-family: 'Poppins';
+    color: rgb(74, 74, 74);
+    background-color: rgb(239, 255, 255);
+}
